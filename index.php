@@ -1,5 +1,5 @@
 <?php
 
-echo "webhook test OpenShift from ".gethostname()
+echo "Hello Capgemini ".gethostname()
 
 ?>
