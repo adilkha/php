@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Capgeminiii ".gethostname()
+echo "Hello Capgemin ".gethostname()
 
 ?>
